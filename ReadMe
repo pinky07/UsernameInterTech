@@ -1,0 +1,10 @@
+I have used for this project SpringMVC
+maven,mysql,hibernate,jsp, tomcat server
+
+to run project:
+right click project- maven clean
+maven install
+add project to tomcat server 
+start server
+
+url: http://localhost:8080/UserNameInterTech/username/

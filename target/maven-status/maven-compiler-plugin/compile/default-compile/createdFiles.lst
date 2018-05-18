@@ -1,0 +1,15 @@
+com\username\config\HibernateConfig.class
+com\username\dao\UserNameSuggestionDaoImpl.class
+com\username\model\RestrictedWords.class
+com\username\service\RestrictedWordsServiceImpl.class
+com\username\dao\UserNameSuggestionDao.class
+com\username\dao\RestrictedWordsDao.class
+com\username\config\WebInitializer.class
+com\username\service\UserNameSuggestionServiceImpl.class
+com\username\service\UserNameSuggestionService.class
+com\username\controller\UserNameSuggestionController.class
+com\username\model\UserNameSuggestion.class
+com\username\service\RestrictedWordsService.class
+com\username\vo\Result.class
+com\username\config\WebConfig.class
+com\username\dao\RestrictedWordsDaoImpl.class
